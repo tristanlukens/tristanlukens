@@ -2,7 +2,7 @@
 
 Hi! I'm Tristan.
 
-**I'm a frontend web developer (and aspiring fullstack web developer and more!), mainly using [Svelte](https://svelte.dev) and [Tailwind](https://tailwindcss.com] at the moment using only Apple products, but loving Linux as well.**
+**I'm a frontend web developer (and aspiring fullstack web developer and more!), mainly using [Svelte](https://svelte.dev) and [Tailwind](https://tailwindcss.com) at the moment using only Apple products, but loving Linux as well.**
 
 Besides being a programmer, I'm a drummer as well, listening to and playing mostly rock and metal (with the occasional edm and hip hop, but I don't really drum to that kind of stuff). I kind of want to give the bass a go as well. They're really expensive tho.
 
