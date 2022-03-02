@@ -32,7 +32,7 @@ I always use vim. So much that I press escape as soon as I'm done writing someth
 
 I tried switching from vscode using vsvim to completely using vim, but that didn't go too well; I use vscode again. Let's just say I have a problem with letting go. vscode is just amazing, even though that's quite the controversial thing to say, especially under Linux and vim users.
 
-## Linux
+### Linux
 
 Running elementary OS rn on my 2012 Mac mini. I did install Arch on a 2012 MacBook Pro, but ended up not doing anything with that and just installing macOS Catalina again to have it as a backup computer.
 
