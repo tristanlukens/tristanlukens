@@ -1,8 +1,8 @@
-# tristanlukens
+# tristanlukens 👨🏼‍💻
 
 Hi! I'm Tristan.
 
-**I'm a frontend web developer, mainly using [svelte](https://svelte.dev) and [tailwind](https://tailwindcss.com] using only Apple products, but loving Linux as well.**
+**I'm a frontend web developer (and aspiring fullstack web developer and more!), mainly using [Svelte](https://svelte.dev) and [Tailwind](https://tailwindcss.com] at the moment using only Apple products, but loving Linux as well.**
 
 Besides being a programmer, I'm a drummer as well, listening to and playing mostly rock and metal (with the occasional edm and hip hop, but I don't really drum to that kind of stuff). I kind of want to give the bass a go as well. They're really expensive tho.
 
@@ -10,7 +10,9 @@ Besides being a programmer, I'm a drummer as well, listening to and playing most
 
 Other hobbies are F1 and biking.
 
-Anyway, programming.
+My favourite animal is 🐘, I like all kinds of food, I like chemistry, math and physics, love to play Minecraft and Stardew Valley and was born and live in the Netherlands.
+
+Anyway, computer stuff.
 
 ## What I've dabbled in so far 🍍
 
@@ -20,8 +22,15 @@ Anyway, programming.
 - TypeScript
 - go
 - ruby
+- Linux (running elementary OS rn on my 2012 Mac mini)
 
 Don't really do anything with the first two.
+
+## What I want to do the coming weeks
+
+- [ ] ~~get my timing straight with drumming~~
+- [ ] make my site use a cms
+- [ ] get markdown-thing into alpha, more on it later
 
 ## My own website 🐳
 
@@ -31,7 +40,7 @@ Don't really do anything with the first two.
 
 Right now, I'm working on [markdown-thing](https://github.com/tristanlukens/markdown-thing], which will be used for compilation in [right](https://github.com/tristanlukens/right) but these aren't public at the time of writing.
 
-## Socials
+## Socials 🐘
 
 - [twitter](https://twitter.com/tristanlukens) I don't tweet like ever
 - [reddit](https://reddit.com/u/reddit_beepbeeprobot)
