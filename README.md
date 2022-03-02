@@ -30,3 +30,10 @@ Don't really do anything with the first two.
 ## What I'm doing now 🏎
 
 Right now, I'm working on [markdown-thing](https://github.com/tristanlukens/markdown-thing], which will be used for compilation in [right](https://github.com/tristanlukens/right) but these aren't public at the time of writing.
+
+## Socials
+
+- [twitter](https://twitter.com/tristanlukens) I don't tweet like ever
+- [reddit](https://reddit.com/u/reddit_beepbeeprobot)
+- [my own website](https://tristanlukens.github.io)
+- you're already on my github profile!
