@@ -18,7 +18,7 @@ Anyway, computer stuff.
 
 - iOS development
 - game developement using Unity
-- HTML/CSS/JS
+- web development (HTML/CSS/JS, but also Svelte and Tailwind (which is the best combo ever!))
 - TypeScript
 - go
 - ruby
@@ -39,12 +39,16 @@ Running elementary OS rn on my 2012 Mac mini. I did install Arch on a 2012 MacBo
 ## What I want to do the coming weeks 🍋
 
 - [ ] ~~get my timing straight with drumming~~
-- [ ] make my site use a cms
+- [x] make my site use a cms
 - [ ] get markdown-thing into alpha, more on it later
 
 ## My own website 🐳
 
 [My website](https://tristanlukens.github.io) uses SvelteKit and Tailwind. Probably the best combo ever. Only a CMS remains. I want to use Keystone, but that doesn't integrate with Svelte as nicely as it does with Next (there's no way (that I know of) to get the `withKeystone` function to work in `svelte.config.js`) and I'd have to use it in standalone mode. This wouldn't be a problem as long as I would have money for renting a server where I'd put the Keystone app. But ehh. Well, you can figure this one out yourself.
+
+### UPDATE 🕵🏻‍♂️
+
+I've done the whole cms thing! If you're reading this on my website (which fetches this readme for its about page), you can see it right now if you go to [blog](https://tristanlukens.vercel.app/blog). I'm using graphcms. It's really good. Vercel is slow though due to [cold starts of the serverless functions](https://www.reddit.com/r/nextjs/comments/pzuofu/comment/hf5zhqf/?utm_source=share&utm_medium=web2x&context=3); I might want to switch to something else. I can't use github pages with this though, since I need the app to be static (and use svelte's static adapter) but I'll see what I'll do.
 
 ## What I'm doing now 🏎
 
@@ -54,8 +58,8 @@ Right now, I'm working on [markdown-thing](https://github.com/tristanlukens/mark
 
 - [twitter](https://twitter.com/tristanlukens) I don't tweet like ever
 - [reddit](https://reddit.com/u/reddit_beepbeeprobot)
-- [my own website](https://tristanlukens.github.io)
-- you're already on my github profile!
+- [my website](https://tristanlukens.vercel.app)
+- [github](https://github.com/tristanlukens)
 
 -----
 
