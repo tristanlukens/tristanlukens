@@ -48,7 +48,7 @@ Running elementary OS rn on my 2012 Mac mini. I did install Arch on a 2012 MacBo
 
 ## What I'm doing now 🏎
 
-Right now, I'm working on [markdown-thing](https://github.com/tristanlukens/markdown-thing], which will be used for compilation in [right](https://github.com/tristanlukens/right) but these aren't public at the time of writing.
+Right now, I'm working on [markdown-thing](https://github.com/tristanlukens/markdown-thing), which will be used for compilation in [right](https://github.com/tristanlukens/right) but these aren't public at the time of writing.
 
 ## Socials 🐘
 
