@@ -28,13 +28,13 @@ Don't really do anything with the first two.
 
 ### vim
 
-I always use vim. So much that I press escape as soon as I'm done writing something, regardless of in what enviroment I am.
+I always use vim. So much that I press escape as soon as I'm done writing something, regardless of in what environment I am.
 
 I tried switching from vscode using vsvim to completely using vim, but that didn't go too well; I use vscode again. Let's just say I have a problem with letting go. vscode is just amazing, even though that's quite the controversial thing to say, especially under Linux and vim users.
 
 ### Linux
 
-Running elementary OS rn on my 2012 Mac mini. I did install Arch on a 2012 MacBook Pro, but ended up not doing anything with that and just installing macOS Catalina again to have it as a backup computer.
+Running Fedora Linux rn on my 2012 Mac mini. I did install Arch on a 2012 MacBook Pro, but ended up not doing anything with that and just installing macOS Catalina again to have it as a backup computer. At least I can say I've installed Arch :)
 
 ## What I want to do the coming weeks 🍋
 
