@@ -38,9 +38,8 @@ Running Fedora Linux rn on my 2012 Mac mini. I did install Arch on a 2012 MacBoo
 
 ## What I want to do the coming weeks 🍋
 
-- [ ] ~~get my timing straight with drumming~~
-- [x] make my site use a cms
-- [ ] get markdown-thing into alpha, more on it later
+- [x] ~~make my site use a cms~~
+- [ ] get markdown-thing into alpha, more on that later
 
 ## My own website 🐳
 
